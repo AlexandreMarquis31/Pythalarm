@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = PythAlarm;
+	cell = PSLinkCell;
+	detail = PythAlarmListController;
+	icon = Pythalarm.png;
+	isController = 1;
+	label = PythAlarm;
+    };
+}
